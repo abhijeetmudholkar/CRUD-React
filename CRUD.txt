@@ -1,0 +1,19 @@
+CRUD Application
+
+
+Packages->
+
+Server Side(BackEnd)
+=====================================
+"nodemon": "^3.1.0"
+"body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+
+FrontEnd
+=====================================
+react-router-dom
+axios(http)
+react-hot-tost(popup)
